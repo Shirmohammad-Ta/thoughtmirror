@@ -1,0 +1,38 @@
+{
+  "session_id": "session_01",
+  "date": "2025-06-15",
+  "thoughts": [
+    {
+      "timestamp": "2025-06-15T22:00:00",
+      "text": "I feel like I\u2019m stuck and nothing is moving forward."
+    },
+    {
+      "timestamp": "2025-06-15T22:05:00",
+      "text": "Maybe I should try something completely different with my life."
+    }
+  ],
+  "analysis": [
+    {
+      "original": "I feel like I\u2019m stuck and nothing is moving forward.",
+      "emotion": "frustration",
+      "cognitive_pattern": "stuck mindset",
+      "summary": "The user feels a lack of progress in life."
+    },
+    {
+      "original": "Maybe I should try something completely different with my life.",
+      "emotion": "curiosity",
+      "cognitive_pattern": "exploratory thinking",
+      "summary": "The user is considering a major life change."
+    }
+  ],
+  "suggestions": [
+    {
+      "thought": "I feel like I\u2019m stuck and nothing is moving forward.",
+      "suggestion": "Consider identifying one small action to regain momentum."
+    },
+    {
+      "thought": "Maybe I should try something completely different with my life.",
+      "suggestion": "Explore your curiosity with low-risk experiments."
+    }
+  ]
+}
