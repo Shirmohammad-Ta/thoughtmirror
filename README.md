@@ -1,15 +1,15 @@
 # ThoughtMirror
 
-🧠 **ThoughtMirror** is an experimental project that simulates real-time thought streams using natural language input and applies Large Language Models (LLMs) to analyze emotional and cognitive patterns. It then provides reflective feedback to help users better understand and manage their internal states.
+ **ThoughtMirror** is an experimental project that simulates real-time thought streams using natural language input and applies Large Language Models (LLMs) to analyze emotional and cognitive patterns. It then provides reflective feedback to help users better understand and manage their internal states.
 
-## 🚀 Features
+##  Features
 
 - Simulate and log real-time thought streams
 - Analyze emotional and cognitive patterns using LLM
 - Generate personalized feedback and suggestions
 - Modular structure for easy experimentation and expansion
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 thoughtmirror/
@@ -26,7 +26,7 @@ thoughtmirror/
 └── requirements.txt
 ```
 
-## 🧪 Getting Started
+##  Getting Started
 
 1. Clone the repository:
 ```bash
@@ -44,11 +44,11 @@ pip install -r requirements.txt
 python src/interface.py
 ```
 
-## 🛠️ Requirements
+##  Requirements
 
 - Python 3.8+
 - Optional: OpenAI API key (for real LLM integration)
 
-## 📄 License
+## License
 
 MIT License
